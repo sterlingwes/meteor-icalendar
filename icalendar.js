@@ -1,0 +1,1 @@
+icalendar = Npm.require('icalendar');
